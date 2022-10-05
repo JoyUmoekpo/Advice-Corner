@@ -17,4 +17,5 @@
 ## Usage
 ## Future Developments
 ## Credits
+* Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
 ## License
