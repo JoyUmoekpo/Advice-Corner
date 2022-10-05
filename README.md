@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
+* [Deployed Link](#deployed-link)
 * [Usage](#usage)
 * [Future Developments](#future-developments)
 * [Credits](#credits)
@@ -12,6 +13,7 @@
 
 ## Technologies Used
 ## Installation
+## Deployed Link
 ## Usage
 ## Future Developments
 ## Credits
