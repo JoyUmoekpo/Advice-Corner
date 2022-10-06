@@ -26,6 +26,8 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * Advice based on keywords
 * Daily advice
 ## Application Image(s)
+![Advice Images](./assets/image.png)
+
 ## Contributing
 ## Tests
 ## Questions
