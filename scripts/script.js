@@ -9,4 +9,4 @@ async function getAdvice(){
 }
 
 getAdvice()
-.then(json => console.log(json));
+.then(data => console.log(data));
