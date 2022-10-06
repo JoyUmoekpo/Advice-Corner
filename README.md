@@ -1,6 +1,9 @@
 # Advice-Corner
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b8b517d2-ec08-478f-910c-da034d0d5463/deploy-status)](https://app.netlify.com/sites/advice-corner/deploys)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/JoyUmoekpo/Advice-Corner)](https://github.com/JoyUmoekpo/Advice-Corner/commit/main)
+
 ## Description
 Welcome to Advice Corner! This application uses the Advice Slip JSON API to generate advice for the user. Upon refreshing, the user will be given a unique piece of advice.
 ## Table of Contents
@@ -22,6 +25,7 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * Advice Slip JSON API
 
 ## Deployed Link
+
 * This application is hosted on the netlify environment: [Advice Corner](https://advice-corner.netlify.app/)
 
 * This is the repository link for this application: [Advice Corner Repository](https://github.com/JoyUmoekpo/Advice-Corner)
