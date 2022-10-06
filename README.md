@@ -1,7 +1,7 @@
 # Advice-Corner
- An application that provides the user with advice from the Advice Slip JSON API
 
 ## Description
+Welcome to Advice Corner! This application uses the Advice Slip JSON API to generate advice for the user.
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
