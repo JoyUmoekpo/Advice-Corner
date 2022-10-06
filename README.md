@@ -4,7 +4,6 @@
 Welcome to Advice Corner! This application uses the Advice Slip JSON API to generate advice for the user. Upon refreshing, the user will be given a unique piece of advice.
 ## Table of Contents
 * [Technologies Used](#technologies-used)
-* [Installation](#installation)
 * [Deployed Link](#deployed-link)
 * [Future Developments](#future-developments)
 * [Application Images](#application-images)
@@ -20,7 +19,6 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * JavaScript
 * Advice Slip JSON API
 
-## Installation
 ## Deployed Link
 ## Future Developments
 * Advice based on keywords
@@ -29,8 +27,15 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 ![Advice Images](./assets/image.png)
 
 ## Contributing
+I'm open to contributions!
 ## Tests
+No tests were preformed.
 ## Questions
+If you have any questions, feel free to contact me by using the information listed below:
+
+Github: https://github.com/joyumoekpo
+ 
+Email: joyumoekpo1@gmail.com
 ## Credits
 * Advice Slip JSON API: https://api.adviceslip.com/
 * Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
