@@ -19,7 +19,7 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 
 ## Installation
 ## Deployed Link
-## Usage
+## Application Images
 ## Future Developments
 * Advice based on keywords
 * Daily advice
