@@ -1,6 +1,8 @@
 fetch('https://api.adviceslip.com/advice')
-    .then((response) => response.json())
-    // .then((data) => console.log(data))
-    .then((data) => console.log(data.slip.id, data.slip.advice))
+    .then(response => response.json())
+    .then(data => {
+        document.querySelector('#advice')
+        .innerHTML =`<h6>Here's your advice: \n ${data.slip.advice}</h6>`
+    })
     .catch(() => console.log('An error occurred. Please fix your code.'));
 
