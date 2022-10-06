@@ -16,6 +16,8 @@
 ## Deployed Link
 ## Usage
 ## Future Developments
+* Advice based on keywords
+* Daily advice
 ## Credits
 * Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
 ## License
