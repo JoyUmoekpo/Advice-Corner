@@ -29,7 +29,7 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 ### MIT License
 
 ```
-Copyright (c) [2022] [JoyUmoekpo]
+Copyright (c) [2022] JoyUmoekpo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
