@@ -19,11 +19,13 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 
 ## Installation
 ## Deployed Link
-## Application Images
+## Application Image(s)
+
 ## Future Developments
 * Advice based on keywords
 * Daily advice
 ## Credits
+* Advice Slip JSON API: https://api.adviceslip.com/
 * Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
 ## License
 ### MIT License
