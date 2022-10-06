@@ -12,6 +12,11 @@
 * [License](#license)
 
 ## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* Advice Slip JSON API
+
 ## Installation
 ## Deployed Link
 ## Usage
