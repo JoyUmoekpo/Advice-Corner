@@ -6,7 +6,7 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Deployed Link](#deployed-link)
-* [Usage](#usage)
+* [Application Images](#application-images)
 * [Future Developments](#future-developments)
 * [Credits](#credits)
 * [License](#license)
