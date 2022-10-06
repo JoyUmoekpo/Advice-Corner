@@ -5,6 +5,7 @@ html {
     overflow: hidden;
     background: #413C69;
     color: #fff;
+    font-family: 'Rubik', cursive;
 }
 
 #greeting {
