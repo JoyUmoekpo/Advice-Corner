@@ -3,7 +3,7 @@ async function getAdvice(){
     try {
         let response = await fetch(url);
         return await response.json();
-    } catch((error) => {
+    } catch(error) {
         console.log(error);
     }
 }
