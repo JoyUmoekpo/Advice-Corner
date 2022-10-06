@@ -6,8 +6,11 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Deployed Link](#deployed-link)
-* [Application Images](#application-images)
 * [Future Developments](#future-developments)
+* [Application Images](#application-images)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 * [Credits](#credits)
 * [License](#license)
 
@@ -19,11 +22,13 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 
 ## Installation
 ## Deployed Link
-## Application Image(s)
-
 ## Future Developments
 * Advice based on keywords
 * Daily advice
+## Application Image(s)
+## Contributing
+## Tests
+## Questions
 ## Credits
 * Advice Slip JSON API: https://api.adviceslip.com/
 * Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
