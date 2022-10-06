@@ -4,27 +4,23 @@ async function getAdvice(){
         let response = await fetch(url);
         return await response.json();
     } catch((error) => {
-        console.log('An error occurred: ', error);
+        console.log(error);
     }
 }
 
-// fetch('https://api.adviceslip.com/advice/36')
-// .then((response) => response.json())
-// .then((data) => {
-//     console.log(data)
-// })
-// .catch((error) => {
-//     console.log('An error occurred: ', error)
-// });
+async function readAdvice(){
+    let advice = await getAdvice();
+    let html = '';
+    advice.forEach(adv => {
+        let htmlSegment = `<div class="advice">
+                            <h1 class="advice-id">${adv.slip_id}</h1>
+                            <h2 class="advice-message">${adv.advice}</h2>
+                        </div>`;
+        html += htmlSegment;
+    });
 
-// fetch('https://api.adviceslip.com/advice/search/high')
-// .then((response) => response.json())
-// .then((data) => {
-//     console.log(data)
-// })
-// .catch((error) => {
-//     console.log('An error occurred: ', error)
-// });
+    let container = document.querySelector('.container');
+    container.innerHTML = html;
+}
 
-// let advice = document.querySelector('.advice');
-// advice.innerHTML = advice;
+readAdvice();
