@@ -20,9 +20,9 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 * Advice Slip JSON API
 
 ## Deployed Link
-This application is hosted on the netlify environment: [Advice Corner](https://advice-corner.netlify.app/)
+* This application is hosted on the netlify environment: [Advice Corner](https://advice-corner.netlify.app/)
 
-This is the repository link for this application: [Advice Corner Repository](https://github.com/JoyUmoekpo/Advice-Corner)
+* This is the repository link for this application: [Advice Corner Repository](https://github.com/JoyUmoekpo/Advice-Corner)
 
 ## Future Developments
 * Advice based on keywords
@@ -31,15 +31,15 @@ This is the repository link for this application: [Advice Corner Repository](htt
 ![Advice Images](./assets/image.png)
 
 ## Contributing
-I'm open to contributions!
+* I'm open to contributions!
 ## Tests
-No tests were preformed.
+* No tests were preformed.
 ## Questions
 If you have any questions, feel free to contact me by using the information listed below:
 
-Github: https://github.com/joyumoekpo
+* Github: https://github.com/joyumoekpo
 
-Email: joyumoekpo1@gmail.com
+* Email: joyumoekpo1@gmail.com
 ## Credits
 * Advice Slip JSON API: https://api.adviceslip.com/
 * Unsplash / Favicon: https://unsplash.com/photos/HH4WBGNyltc
