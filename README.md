@@ -27,7 +27,6 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 ## Deployed Link
 
 * This application is hosted on the netlify environment: [Advice Corner](https://advice-corner.netlify.app/)
-
 * This is the repository link for this application: [Advice Corner Repository](https://github.com/JoyUmoekpo/Advice-Corner)
 
 ## Features
@@ -46,7 +45,6 @@ Welcome to Advice Corner! This application uses the Advice Slip JSON API to gene
 If you have any questions, feel free to contact me by using the information listed below:
 
 * Github: https://github.com/joyumoekpo
-
 * Email: joyumoekpo1@gmail.com
 
 ## Credits
